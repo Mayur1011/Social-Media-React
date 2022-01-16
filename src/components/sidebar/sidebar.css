@@ -43,6 +43,13 @@
   font-weight: bold;
 }
 
+.sidebarButton:hover {
+  border: 1px solid black;
+  font-weight: bold;
+  background: transparent;
+  cursor: pointer;
+}
+
 .sidebarHr {
   margin: 20px 0;
 }
