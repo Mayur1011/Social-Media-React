@@ -7,14 +7,15 @@ export default function Topbar() {
       <div className="topbarLeft">
         <span className="logo"> Socio-Club</span>
       </div>
+
       <div className="topbarCenter">
         <div className="searchBar">
           <Search className="searchIcon"></Search>
           <input placeholder="Search Socio-Club" className="searchInput" />
         </div>
       </div>
+
       <div className="topbarRight">
-        {/*  */}
         <div className="topbarLinks">
           <span className="topbarLink">Homepage</span>
           <span className="topbarLink">TimeLine</span>
