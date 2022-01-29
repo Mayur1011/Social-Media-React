@@ -7,12 +7,12 @@ export const Users = [
   {
     id: 2,
     profilePicture: "assests/person/2.jpeg",
-    username: "Janell Shrum",
+    username: "Bill Gates",
   },
   {
     id: 3,
     profilePicture: "assests/person/3.jpeg",
-    username: "Alex Durden",
+    username: "Jeff Bezos",
   },
   {
     id: 4,
@@ -27,22 +27,22 @@ export const Users = [
   {
     id: 6,
     profilePicture: "assests/person/6.jpeg",
-    username: "Shirley Beauchamp",
+    username: "Kobe Brynt",
   },
   {
     id: 7,
     profilePicture: "assests/person/7.jpeg",
-    username: "Travis Bennett",
+    username: "Les Brown",
   },
   {
     id: 8,
     profilePicture: "assests/person/8.jpeg",
-    username: "Kristen Thomas",
+    username: "Steve Harvey",
   },
   {
     id: 9,
     profilePicture: "assests/person/9.jpeg",
-    username: "Gary Duty",
+    username: "Gary Vee",
   },
   {
     id: 10,

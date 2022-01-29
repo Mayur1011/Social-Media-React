@@ -70,14 +70,14 @@
   border-radius: 5px;
   padding: 7px;
   margin-right: 20px;
-  background-color: #6735f1;
+  background-color: #166974;
   font-weight: 500;
   color: white;
 }
 
 .shareButton:hover {
-  border: 1px solid #6735f1;
+  border: 1px solid #166974;
   background: transparent;
-  color: #6735f1;
+  color: #166974;
   cursor: pointer;
 }
