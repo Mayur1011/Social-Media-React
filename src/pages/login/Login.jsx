@@ -1,5 +1,7 @@
 import React from "react";
+
 import "./login.css";
+
 const Login = () => {
   return (
     <div className="login">
@@ -8,6 +10,7 @@ const Login = () => {
           <h3 className="loginLogo">Socio-Club</h3>
           <span className="loginDesc">Connect with the world!</span>
         </div>
+
         <div className="loginRight">
           <div className="loginBox">
             <input placeholder="Email" className="loginInput" />

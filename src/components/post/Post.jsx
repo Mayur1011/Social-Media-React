@@ -1,8 +1,8 @@
 import React from "react";
 import { MoreVert } from "@material-ui/icons";
-import "./post.css";
 import { useState } from "react";
 import { Users } from "../../dummyData";
+import "./post.css";
 
 const Post = (props) => {
   const [like, setLike] = useState(props.post.like);
